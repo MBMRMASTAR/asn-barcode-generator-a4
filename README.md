@@ -1,5 +1,5 @@
 # Fork
-This is a fork of the [ASN Barcode Generator](https://github.com/ke-ma-fi/asn-barcode-generator-a4) made by [ke-ma-fi](https://github.com/ke-ma-fi), it only changes a small thing, it removes the ASN text and it makes the code 13 digits.
+This is a fork of the [ASN Barcode Generator](https://github.com/ke-ma-fi/asn-barcode-generator-a4) made by [ke-ma-fi](https://github.com/ke-ma-fi), it only changes a small thing, it removes the ASN text and it makes the code 13 digits wide.
 
 # ASN Barcode Generator
 
