@@ -72,7 +72,7 @@ def create_labels_pdf(start, end, cols, rows, output_filename):
         desired_barcode_height = inner_height * 0.6  # 60% der inneren Etikettenhöhe
 
         # Formatierte Nummer mit führenden Nullen
-        barcode_value = f"ASN{i:06d}"  # Formatierung mit führenden Nullen
+        barcode_value = f"{i:013d}"  # Formatierung mit führenden Nullen
         text = barcode_value
 
         # Erstellen des Barcodes mit einem initialen barWidth
