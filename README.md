@@ -1,3 +1,6 @@
+# Fork
+This is a fork of the [ASN Barcode Generator](https://github.com/ke-ma-fi/asn-barcode-generator-a4) made by [ke-ma-fi](https://github.com/ke-ma-fi), it only changes a small thing, it removes the ASN text and it makes the code 13 digits.
+
 # ASN Barcode Generator
 
 This Python script generates A4 sheets of ASN barcodes in PDF format. These barcodes can be used for archiving scanned documents, such as with [paperless-ngx](https://github.com/paperless-ngx/paperless-ngx).
